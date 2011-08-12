@@ -1,0 +1,15 @@
+Name:                self-ml
+Version:             0.1
+Synopsis:            A markup language heavily influenced by Lisp S-Expressions.
+Homepage:            http://dequechair.com/self-ml
+License:             PublicDomain
+Author:              Devyn Cairns
+Maintainer:          devyn.cairns@gmail.com
+Category:            Data
+Build-type:          Simple
+Cabal-version:       >=1.2
+
+Library
+  Exposed-modules:   Data.SelfML
+  Build-depends:     base       ==4.*,
+                     parsec     ==3.*
