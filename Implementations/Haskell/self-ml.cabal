@@ -1,6 +1,6 @@
 Name:                self-ml
 Version:             0.1
-Synopsis:            A markup language heavily influenced by Lisp S-Expressions.
+Synopsis:            A markup language heavily influenced by Lisp S-Expressions and XML.
 Homepage:            http://dequechair.com/self-ml
 License:             PublicDomain
 Author:              Devyn Cairns
